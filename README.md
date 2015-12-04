@@ -1,2 +1,3 @@
 # python-s
-this is a python script
+This script is a simple script.
+lots of projects are coming into this account soon :)
